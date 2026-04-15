@@ -12,5 +12,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: www.linkedin.com/in/ishita-bhatt-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishita%20Bhatt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-bhatt-)
