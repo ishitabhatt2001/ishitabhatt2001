@@ -2,13 +2,12 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- <b>CyberSecurity related</b>
+  - [Automated Directory Defense & Control — SOAR Pipeline](https://github.com/ishitabhatt2001/Active-Directory-Project)
   
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Machine Learning</b>
+  - [Soil Fertility Prediction](https://github.com/ishitabhatt2001/Soil_Fertility_Prediction)
+  - [CNN Weapon Classification](https://github.com/ishitabhatt2001/CNN-weapon-classification)
 
 <h2> 🤳 Connect with me:</h2>
 
