@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ishita! <br/><a href="https://github.com/ishitabhatt2001">Programmer</a>, <a href="https://www.linkedin.com/in/ishita-bhatt-4u/">Cybersecurity Professional</a>
+<h1>Hi, I'm Ishita! <br/><a href="https://github.com/ishitabhatt2001">Programmer</a>, <a href="https://www.linkedin.com/in/ishita-bhatt-4u/">Data Analyst/Scientist</a>
 
 <h2>👨‍💻 Projects:</h2>
 
