@@ -2,12 +2,15 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>CyberSecurity related</b>
+- <b>CyberSecurity</b>
   - [Automated Directory Defense & Control — SOAR Pipeline](https://github.com/ishitabhatt2001/Active-Directory-Project)
   
-- <b>Machine Learning</b>
+- <b>Data Scienc</b>
   - [Soil Fertility Prediction](https://github.com/ishitabhatt2001/Soil_Fertility_Prediction)
   - [CNN Weapon Classification](https://github.com/ishitabhatt2001/CNN-weapon-classification)
+
+ - <b>Data Analysis</b>
+   - [Soil Fertility Prediction](https://github.com/ishitabhatt2001/ecommerce_churn_pipeline)
 
 <h2> 🤳 Connect with me:</h2>
 
